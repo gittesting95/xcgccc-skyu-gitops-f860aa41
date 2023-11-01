@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: xcgccc-dev
+  labels:
+    environment-id: env_42a5f00c-a0e4-43f2-b935-3b258078919f
+    project-id: project_5609a512-34e9-4b08-9db4-c58b8abfeedb
+    project-name: xcgccc
+    environment-name: dev
+    organization-id: org_517371b9-de66-4f7d-b3d4-f638975eb5b5
